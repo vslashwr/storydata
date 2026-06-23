@@ -1,0 +1,77 @@
+[
+  {
+    "id": "quderella-next-door",
+    "title": "I Spoiled the Quderella Next Door, and I'm Going to Give Her a Key to my House",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgO3nOumfxDuj3zJRY8SwCcMMRM2U2WKS8519LQvkIlJOsZVRyVY7DLLgpyovH-azKceo_Ye_k3hS5svPySbRj2XtzyQKI4Zl_wpJaOsmnc-k-aRRCu-jjqmWvQJlvFGCU3exUGpQBK_WPxtGX2HQe63gPooqHr1-fdgAKt3FYeWWVyKzumwVjexW_kROTz/s1600/2nd%20Life%20Cover.png",
+    "link": "https://example.com/quderella",
+    "genre": [
+      "Comedy",
+      "Romance",
+      "School Life",
+      "Cohabitation"
+    ],
+    "type": "Light Novel",
+    "status": "Completed",
+    "recommended": true
+  },
+  {
+    "id": "villainess-office-lady",
+    "title": "I Was a Villainess in My Past Life, but After Reincarnating as a Modern Office Lady...",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgO3nOumfxDuj3zJRY8SwCcMMRM2U2WKS8519LQvkIlJOsZVRyVY7DLLgpyovH-azKceo_Ye_k3hS5svPySbRj2XtzyQKI4Zl_wpJaOsmnc-k-aRRCu-jjqmWvQJlvFGCU3exUGpQBK_WPxtGX2HQe63gPooqHr1-fdgAKt3FYeWWVyKzumwVjexW_kROTz/s1600/2nd%20Life%20Cover.png",
+    "link": "https://example.com/villainess",
+    "genre": [
+      "Comedy",
+      "Romance",
+      "Office Life",
+      "Ecchi"
+    ],
+    "type": "Web Novel",
+    "status": "Ongoing",
+    "recommended": false
+  },
+  {
+    "id": "never-learned-goodbye",
+    "title": "Never Learned to Say Goodbye",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgO3nOumfxDuj3zJRY8SwCcMMRM2U2WKS8519LQvkIlJOsZVRyVY7DLLgpyovH-azKceo_Ye_k3hS5svPySbRj2XtzyQKI4Zl_wpJaOsmnc-k-aRRCu-jjqmWvQJlvFGCU3exUGpQBK_WPxtGX2HQe63gPooqHr1-fdgAKt3FYeWWVyKzumwVjexW_kROTz/s1600/2nd%20Life%20Cover.png",
+    "link": "https://example.com/never-learned",
+    "genre": [
+      "Death Game",
+      "Survival",
+      "Psychological",
+      "Dark Fantasy"
+    ],
+    "type": "Light Novel",
+    "status": "Ongoing",
+    "recommended": true
+  },
+  {
+    "id": "science-notes",
+    "title": "—The Science Notes by δ and γ—",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgO3nOumfxDuj3zJRY8SwCcMMRM2U2WKS8519LQvkIlJOsZVRyVY7DLLgpyovH-azKceo_Ye_k3hS5svPySbRj2XtzyQKI4Zl_wpJaOsmnc-k-aRRCu-jjqmWvQJlvFGCU3exUGpQBK_WPxtGX2HQe63gPooqHr1-fdgAKt3FYeWWVyKzumwVjexW_kROTz/s1600/2nd%20Life%20Cover.png",
+    "link": "https://example.com/science-notes",
+    "genre": [
+      "Drama",
+      "Mystery",
+      "School Life",
+      "Slice of Life"
+    ],
+    "type": "Light Novel",
+    "status": "Hiatus",
+    "recommended": false
+  },
+  {
+    "id": "bizarre-love-triangle",
+    "title": "Bizarre Love Triangle",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgO3nOumfxDuj3zJRY8SwCcMMRM2U2WKS8519LQvkIlJOsZVRyVY7DLLgpyovH-azKceo_Ye_k3hS5svPySbRj2XtzyQKI4Zl_wpJaOsmnc-k-aRRCu-jjqmWvQJlvFGCU3exUGpQBK_WPxtGX2HQe63gPooqHr1-fdgAKt3FYeWWVyKzumwVjexW_kROTz/s1600/2nd%20Life%20Cover.png",
+    "link": "https://example.com/love-triangle",
+    "genre": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Seinen"
+    ],
+    "type": "Light Novel",
+    "status": "Completed",
+    "recommended": true
+  }
+]
