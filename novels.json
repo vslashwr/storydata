@@ -1,9 +1,427 @@
 [
   {
+    "id": "tomodachi-no-ushiro",
+    "title": "Secretly Holding Hands with You Behind Our Friends’ Back. Falling in Love That Cannot Be Told to Anyone",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOAE_yZl-sZ1slLxSXMaAgZX-9pUfCrvAf7594NcJa-X7w6ix2pgVAs5g64dxIEciceUDqfS5wDp2Ft8BYCJ2OV15kXM6qJ6nlLewblTstnSda0ttOiMymA0_C-2bUlZm76zYrI0Y3J2z1a1_fRulhX0PmKE7zqqz-sbnM7F0I7R-XAXbaKqjH3SxxaalP/s1600/cover.png",
+    "link": "https://yukikitsuneko.blogspot.com/p/tomodachi-no-ushiro.html",
+    "genre": [
+      "Drama",
+      "Romance",
+      "School Life",
+      "Psychological"
+    ],
+    "type": "Light Novel",
+    "status": "Completed",
+    "recommended": true
+  },
+  {
+    "id": "life-reversal",
+    "title": "Life Reversal ~ I Was Cheated On and Falsely Accused, but Now the Most Beautiful Girl in the School Is Getting Close to Me ~",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSlfndHviyEjLWio_GURKOloXSM0PYhK1A6wZg_9qD1Ja3f5cT47SqtCVGCHATs3e6-kOhPF1umoSAdwUvN_25pSKYsSrdka0AfHSC79hzy-mxi8BVsQpQrAb-iRcj8Gxlf5-DndoOQ-HVuGUFE5VfB8OxW5YUF18liUKsUSTIIk5UnaJgAXHCS7Ju8Qjb/s1600/Cover.png",
+    "link": "https://yukikitsuneko.blogspot.com/p/life-reversal.html",
+    "genre": [
+      "Drama",
+      "Romance",
+      "School Life",
+      "Tragedy",
+      "Psychological",
+      "Netorare"
+    ],
+    "type": "Light Novel",
+    "status": "Ongoing"
+  },
+  {
+    "id": "most-beautiful-girl",
+    "title": "It Seems I Was Hitting On the Most Beautiful Girl in School Without Me Noticing",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtrTiZcMHxLuMusEbxqUtWnwHaBiLZKsIEb5-03zftD9jo6gs81hcwJEL8dMkcO7BmZI2Fp_ZpWpI3MSk_4W0rshU3QjftqnVUKb5C1uoOxc0ULJXox5lMOICBJoKAqCfTirrkgT24nm60iawElwnQP1L4OevEMj-RnsKBTpISqSUNeeidj0OjBKYZeUk-/s1600/cover.jpeg",
+    "link": "https://yukikitsuneko.blogspot.com/p/most-beautiful-girl.html",
+    "genre": [
+      "Comedy",
+      "Romance",
+      "School Life",
+      "Shounen",
+      "Slice of Life"
+    ],
+    "type": "Light Novel",
+    "status": "Completed"
+  },
+  {
+    "id": "hey-wanna-go-out-with-me",
+    "title": "Hey, Why Don’t We Just Start Dating? ~ I Became a Camouflage Boyfriend at the Request of My Beautiful Childhood Friend",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh13QrXCNSrWeBZaQTvPdV8wKu271HzNgVbh03-NDagKqrECaNlaQ2fWjoY3kQvbv5tJKYGLUgstOWTquJGM0icQ7rFDVM7TqvjGq_TL5q9D_IfO3Oau1GaAtBpDHuhfYmN7MkLD_wrhVPsakPWwYHIREYCbnTf99OXMBnMqWHdRYAxbbcawxIJy0sr-Goq/s1600/cover.png",
+    "link": "https://yukikitsuneko.blogspot.com/p/hey-wanna-go-out-with-me.html",
+    "genre": [
+      "Comedy",
+      "Romance",
+      "School Life",
+      "Childhood Friends"
+    ],
+    "type": "Light Novel",
+    "status": "Completed"
+  },
+  {
+    "id": "danshi-da",
+    "title": "Regarding my Married Life with a Childhood Friend Whom I Thought Was a Boy Going Way Too Smoothly",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSKRhrjasG615EbIQhITeQNJ1CRSH4nS4eZtYCeMYd36NWIP23aXKdJ2uBFTZcckZf561LEp3AqYtwo8e-sb7Ukfm-t6Mgib_G9EVxWLcPkW7sJydzfj5k8vloO0PUhn3WXIcZleZG7BzSsEJUVLvd23k2X8Hk0kne3_kQxcl7XJDZuK-rPeWPSzYHUYa1/s1600/cover.png",
+    "link": "https://yukikitsuneko.blogspot.com/p/danshi-da.html",
+    "genre": [
+      "Drama",
+      "Romance",
+      "School Life",
+      "Slice of Life"
+    ],
+    "type": "Light Novel",
+    "status": "Ongoing"
+  },
+  {
+    "id": "houkago-famiresu-de",
+    "title": "After School, at a Family Restaurant at Night, With That Girl From My Class",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidOSF3lQuOAdKzg4lHkOJ9d40ykla0dsdreITQLZTY4bDHCgHNlrafP74k_1gAaFxYL7OidFv6ZU5sq54vwuAQZy8xFPPMgRbkLlCTyGkISVweXIp1a6l9xhkVdOuVj0mpEIUINdmrYLQ4PQo3Uds8SK-IK9QgNxv0GVSKl2ev2XQncUSxtihSEMBAgfn8/s1600/cover.jpg",
+    "link": "https://yukikitsuneko.blogspot.com/p/houkago-famiresu-de.html",
+    "genre": [
+      "Drama",
+      "Romance",
+      "School Life",
+      "Slice of Life"
+    ],
+    "type": "Light Novel",
+    "status": "Ongoing"
+  },
+  {
+    "id": "the-elf-named-watanabe",
+    "title": "The Elf Named Watanabe",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6trv-gH3xNvuh-rTsGMovRM9oJLPg8kZw-9OX-tLwqfg4ILM3I_zAyCuu_HtcFuomdB7DKQ5v3GWTK9sj3XOUQuGrRhxYJKE-wyFkKNyoA8jllPkX7vAHxzdlp0Ribvc1jdV2EfGl1iHE_hXym7Fbix0l8fUaiVIVz13edCM_0OYMIg8BynSj6OmYWaSR/s1600/cover.png",
+    "link": "https://yukikitsuneko.blogspot.com/p/the-elf-named-watanabe.html",
+    "genre": [
+      "Fantasy",
+      "Comedy",
+      "Romance",
+      "School Life",
+      "Slice of Life"
+    ],
+    "type": "Light Novel",
+    "status": "Completed"
+  },
+  {
+    "id": "villainess-fiancee",
+    "title": "I Got Engaged, But It Turns Out My Fiancée Is the School’s Famous Villainess",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgySPxHn1kCoMmP9oGhh058jp799zn52A3rMNiOQ0XGqnwOUIChrcbvL1wjyHZnUhCiRNJRU2iy5hQP-xmDgmgk3uN4901qNNn1Gt3idGq8ZvGs4tDCbofqiFAM_k0hmm7nS0OTmiCMXuCGSsYS2z25KwpTQeFJNs_kCcMdMMbzWROmib9KlDcELdqoEJWr/s1600/aDLZrKNY_o.png",
+    "link": "https://yukikitsuneko.blogspot.com/p/villainess-fiancee.html",
+    "genre": [
+      "Comedy",
+      "Romance",
+      "School Life",
+      "Slice of Life",
+      "Cohabitation"
+    ],
+    "type": "Light Novel",
+    "status": "Completed"
+  },
+  {
+    "id": "beast-tamer",
+    "title": "The Beast Tamer who got kicked out from the Hero Party, meets a Cat Girl from the Superior Race",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBIWovEPVQOezWs6k-_c4BpuaN3Rx-U5K6grkm9xjndzVhFoVP5oEXbH1eKCPzIY8tRhbqOPiU137uu_kMIKPv9sSdNIXwNMDotJ9niQ2PLtlg4ZhLZyZtmPn3wx2GPGzuX4lODehT_og2sbYvnplNC0wBn2plmGx-Ac9PbgcRKV4j7bvJZPmRNJ5uEj8F/s1600/cover.png",
+    "link": "https://yukikitsuneko.blogspot.com/p/beast-tamer.html",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Drama",
+      "Ecchi",
+      "Fantasy",
+      "Harem",
+      "Romance",
+      "Supernatural"
+    ],
+    "type": "Light Novel",
+    "status": "Ongoing"
+  },
+  {
+    "id": "a-fresh-start",
+    "title": "A Fresh Start!? ~ A Middle-Aged Man Betrayed and Abandoned by His Cheating Wife Fights for a Second Chance at Youth Through Hard Work and Revenge ~",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-mLdHLow_bR_nTHnOTvjNPa168fBFkTEtH-YvXkOIhnCyvgXJvksbSNwjlNAGE93BkstynIwnhQBGMkhor7YV_R7caaWc1JGFBmkITcK-bJwZ7WkBg-TVPWm8nW9m8su_QD80wZzKyNf3Gk9g78gwY3D0MwQBwYDLjiioZ8oOqP2svA-ZhJXukP4s33Zn/s1600/WN%20Cover%20%282%29.png",
+    "link": "https://yukikitsuneko.blogspot.com/p/a-fresh-start.html",
+    "genre": [
+      "Adult",
+      "Drama",
+      "Romance",
+      "School Life",
+      "Netorare",
+      "Time Travel",
+      "Tragedy",
+      "Psychological"
+    ],
+    "type": "Web Novel",
+    "status": "Ongoing"
+  },
+  {
+    "id": "imadoki-gal",
+    "title": "It Seems My Older Childhood Friend, Who's a Modern-Day Gal, Is Harboring Some Seriously Intense Feelings for Me",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpFPiH3XRt3frIpCZHOr9wAoYPPsJp-wQAruwDfWhgIx4n-itLvy_OA2trT40iN5eBf8GaOQmxS-iUJb6Q_OJeRIBamjzuIuqVFOjqSKuY5Rj7ybldsQZmgs26Cm7TrmuP7hdXQ-BFMv_BV2wCOyRPYYgV9YjDWAZlybypG5LyS9TNP8kHHrIOOhai7ELI/s1600/mFW2p89L.png",
+    "link": "https://yukikitsuneko.blogspot.com/p/imadoki-gal.html",
+    "genre": [
+      "Romance",
+      "Comedy",
+      "Childhood Friend",
+      "Yandere",
+      "Gal",
+      "School Love",
+      "University Student"
+    ],
+    "type": "Web Novel",
+    "status": "Ongoing",
+    "recommended": true
+  },
+  {
+    "id": "i-wont-choose-you",
+    "title": "I Won't Choose You",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsdTbZRCKnQJDvnsVwlLO67RkJtb5YF4yZxKIAYC-sjulhQ7S2J-QaV4XbJ8o2jQwxJzraGCjggaOk63J2RF8YaaCm64as4rPlOp918THPDGxbSJa6a-tQfflc0aoY5yY03aN3PnVqEuaDftiKbtqUEyoofL3vi8M_beDA-ZipLAkI_BbG8JqfiEVnQ7Qf/s1600/cover.png",
+    "link": "https://yukikitsuneko.blogspot.com/p/i-wont-choose-you.html",
+    "genre": [
+      "Adult",
+      "Drama",
+      "Romance",
+      "School Life",
+      "Friendship",
+      "Time Leap",
+      "Tragedy",
+      "Psychological",
+      "Mystery"
+    ],
+    "type": "Light Novel",
+    "status": "On-going",
+    "recommended": true,
+    "staffPick": true
+  },
+  {
+    "id": "because-you-were-by-my-side",
+    "title": "Because You Were by My Side",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-Xzw84W4cBTGHdBKLKRPMXrq1Xf_Qn7StTKMZGS7gXY3hoKckq8YNtr9_dmAi2IGyTGlO6h44yxMHPsg7pz3ZehHL70FKOowVuqeNuLzL0Wfg9EOtAJcgaKCXjRs2Ngdf3tZIAtnYr5LBQr0BReWsWSOLxWWX8H2YluLdsVPHHJPnfLaXmCXLm5BdwZ0H/s1600/no_cover.jpg",
+    "link": "https://yukikitsuneko.blogspot.com/p/because-you-were-by-my-side.html",
+    "genre": [
+      "Baseball",
+      "Drama",
+      "Friendship",
+      "Romance",
+      "Tragic Love",
+      "Tragedy",
+      "Bereavement",
+      "Work",
+      "College Students",
+      "High School Students"
+    ],
+    "type": "Web Novel",
+    "status": "Completed",
+    "recommended": true
+  },
+  {
+    "id": "kano-dere",
+    "title": "Only I, Her Future Husband, Know How to Make Her Show Her Sweet Side",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiH6CwqwkAcJAbitJPlbUT-dqEjo6hc-uBXKiKltviN2Xfy1ItnOCA2UXzUeGiHelKFnyFsluONI9pY6UyYAZUszO3kmUVjxoYLVwiuoC8-KWoj0-uuSXuOlAsF_O6iInhkX-e4ER14SMljI1DC7PeLM2mHwe2pbwHHVC3IO1YzwwZQ37Tea2vzxshMsMzk/s1600/cover.jpg",
+    "link": "https://yukikitsuneko.blogspot.com/p/kano-dere.html",
+    "genre": [
+      "Comedy",
+      "Romance",
+      "School Life",
+      "Slice of Life",
+      "Time Leap"
+    ],
+    "type": "Light/Web Novel",
+    "status": "Ongoing"
+  },
+  {
+    "id": "gunatsu",
+    "title": "Gunatsu: The Beautiful Girl I Happened to Save Won't Let Me Go!",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjr5Mh5RS9X9K2JNbrmSqE-0q2VWHTDz_SmleSVMcfawJlJUEJL3ZKP8nMLA0iCBYodoSIB5X8qytLFi7u78oB8z7_ti9NK9V6_3Hr6I_zt98XOk6S-VYn6c7qq-rfRaJ_KrqPguZs0kqrtj17A3STpUS5mZrFSO2KaAeXy2owRGpwRgTe_oLkxuN4LyygW/s1600/Cover_gunatsu.png",
+    "link": "https://yukikitsuneko.blogspot.com/p/gunatsu.html",
+    "genre": [
+      "Comedy",
+      "Romance",
+      "School Life",
+      "Slice of Life"
+    ],
+    "type": "Light/Web Novel",
+    "status": "Ongoing"
+  },
+  {
+    "id": "love-ranking",
+    "title": "Love Ranking",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3s5KG1KsR3lOlvZai8Q7a1EWDns4IoI_RPmrmZuq4lGLqh-tvB5QepxZwETAh4yri73L-ydEgWJOQCUfPx9TaREk57MPc2uv6DAT7MsB9OlMvedcnD0Uv5Eojr0zcjquv2HpbE_cBULtnbcSyjp3WuIEnwz5-Xp20c4BM92erk1WKggp5EQCt0CGVWCiP/s1600/image_rsrc5XW%20copy.png",
+    "link": "https://yukikitsuneko.blogspot.com/p/love-ranking.html",
+    "genre": [
+      "Comedy",
+      "Romance",
+      "School Life",
+      "Slice of Life"
+    ],
+    "type": "Light Novel",
+    "status": "One Shot",
+    "recommended": true
+  },
+  {
+    "id": "yandere-ex-girlfriend",
+    "title": "I Time-Looped Back to My Youth, and for Some Reason, My Ex-Girlfriend from My Past Life Is Overwhelmingly Obsessed with Me",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-Xzw84W4cBTGHdBKLKRPMXrq1Xf_Qn7StTKMZGS7gXY3hoKckq8YNtr9_dmAi2IGyTGlO6h44yxMHPsg7pz3ZehHL70FKOowVuqeNuLzL0Wfg9EOtAJcgaKCXjRs2Ngdf3tZIAtnYr5LBQr0BReWsWSOLxWWX8H2YluLdsVPHHJPnfLaXmCXLm5BdwZ0H/s1600/no_cover.jpg",
+    "link": "https://yukikitsuneko.blogspot.com/p/yandere-ex-girlfriend.html",
+    "genre": [
+      "Romance",
+      "Comedy",
+      "School Life",
+      "Time Travel",
+      "Yandere"
+    ],
+    "type": "Web Novel",
+    "status": "Completed"
+  },
+  {
+    "id": "like-snow-piling-up",
+    "title": "It was like snow, quietly falling and piling up.",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUf_20XOS1yfcGk_RVDvhbZQiUDTts6lkxAg8K7DdeXzPqw5ORAwzfhsDGt3prSRdz2tcL5D4SXGX3zK5pkZGqNDhpDGBRCFVxg4v2ZyZgM4_i66Zk6QnAS9Iqhr84iJH4CFctS-g4eXGb3wQKpinuJZpfLUiNrZLq7xNeM7yUD6-9AcAA8xm4GFB0Jhkx/s1600/cover.png",
+    "link": "https://yukikitsuneko.blogspot.com/p/like-snow-piling-up.html",
+    "genre": [
+      "Romance",
+      "Comedy",
+      "School Life",
+      "Slice of Life"
+    ],
+    "type": "Light Novel",
+    "status": "Completed"
+  },
+  {
+    "id": "s-tier-beauties",
+    "title": "When the Introverted Me Got Surrounded by S-Tier Beauties After a Seat Change, a Secret Relationship Began",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6_b2t2xGbePh9m46InB5CEENT1zKxHkmRgBn0aov9bBl20-vFA5vqVUwZQQ5ZlHa_Mf1MlYCraUQKfMKuNEnGss23YFqq39sMmVM-jkKoDAeZH7x1shxZqTFXwUyWo9EkusfEvWehTPEpS455jDRTi2krGCc3oGFEVFJagSJheJ22ia56idaNWqA4Moly/s1600/cover-v1.png",
+    "link": "https://yukikitsuneko.blogspot.com/p/s-tier-beauties.html",
+    "genre": [
+      "Romance",
+      "Comedy",
+      "School Life",
+      "Harem",
+      "Ecchi"
+    ],
+    "type": "Light Novel",
+    "status": "Ongoing",
+    "recommended": true
+  },
+  {
+    "id": "gyaru-fiancee-1",
+    "title": "One day, out of nowhere, I got a gyaru fiancée.",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWlW4Pa_Ek_D5sdUg-tqxRQoNHopktwrteZoQIWsNOCPOlrYt23Mh72xw84YNotRStAz7xSXjxvL0TOkyJWemiRmpqK53_Rvd5n7u6BgGmbAG4VrTvvi0XQ12vJEpY5UmxDeDjFHMyKQN-AqjkYhaE8ZgubraLuKasKwogL4h980fMTIxSSOjW4OVquIsy/s1600/cover%20%281%29.png",
+    "link": "https://yukikitsuneko.blogspot.com/p/gyaru-fiancee.html",
+    "genre": [
+      "Romance",
+      "Comedy",
+      "School Life"
+    ],
+    "type": "Light Novel",
+    "status": "Completed"
+  },
+  {
+    "id": "gyaru-fiancee-2",
+    "title": "Pass the Monster Meat, Milady!",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjugz4HjcbPfGFqzEG416uFYkj5djVj0UgdwiPaNYOHyOV6U2vMxahhg256B6Ee1xxrM9oWxJCU0U9wgKHjSiubhaBT-ripEw-YBPSM_qoimK45-XM3fhuhyphenhyphenQQNZsvLQgcS7VB0Ayz2Sqfsg0AQXVnzr14Pqt-UX19W85FEYR47DhUnECKjBJDXUL2SZ8BO/s1600/cover.png",
+    "link": "https://yukikitsuneko.blogspot.com/p/gyaru-fiancee.html",
+    "genre": [
+      "Romance",
+      "Comedy",
+      "Fantasy"
+    ],
+    "type": "Light Novel",
+    "status": "Ongoing"
+  },
+  {
+    "id": "and-that-was-brought-to-you-by-my-ex",
+    "title": "And That Was Brought To You By My Ex!",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEMnjmVDKx8TBzm74pDf6P53X5EmnpEbiKCzUCFCTP-IkIXXT1wJzmtGbQjxRY1YG2BL-r_ClnrZYxq6XEryIdtv6u6rip1brQ94Eq0fBQnKOFlKyKdFF9K4jNKUTkPvtjQD-FAJ9FJdoPhgKrHtN2CA_nEfvF6jWV1QCrczoRc_Og7is4U9YQXnYQotXs/s1600/ex%20Cover.png",
+    "link": "https://yukikitsuneko.blogspot.com/p/and-that-was-brought-to-you-by-my-ex.html",
+    "genre": [
+      "Adult",
+      "Romance",
+      "Comedy",
+      "Working Adults"
+    ],
+    "type": "Light Novel",
+    "status": "Ongoing"
+  },
+  {
+    "id": "kanojo-ni-shitai",
+    "title": "Amari-chan, the girl I found next to the number-one girl everyone wants as a girlfriend",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiBE7bwkEoLLGWX90WTdmKz-1uscRMvVcd1L26WfIn1UxKs2uWIhVhe24WTG8knYqmCJ8mGb8F81f4bPJuIQgukNcgRTtXSdmb-dm797YmNedi0VNlMQuT9CZfwF2zdaU18KLWBYWjs6pW6BVzpY8JyTEl0H_We2KYPXBMcg9TqE6JnM4Bn1lntbNhxeES/s1600/cover.png",
+    "link": "https://yukikitsuneko.blogspot.com/p/kanojo-ni-shitai.html",
+    "genre": [
+      "Romance",
+      "Comedy",
+      "School Life",
+      "Ecchi"
+    ],
+    "type": "Light Novel",
+    "status": "Ongoing"
+  },
+  {
+    "id": "small-but-big-nanase-san",
+    "title": "Taking the Adorably Small yet Big Nanase-san from Her Misguided Ex and Making Her Happy",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFyUip8koYx2mTVm8zodS26Yq0WvuWubUAV7hujFc7Hj4iMxKBPdmlLxkEMAZRWAHH3t5YHLU_ENz_NUrQY27KI90bmyFUBscCZylgHag1WLTOJs02h-5T2GK03sneQ-7SWeL3Hba1SoivUSJEHGEXRkN1HiJT7xKdG_h0BoRerDHiX7KDrQ23dxBXM9ix/s1600/cover.png",
+    "link": "https://yukikitsuneko.blogspot.com/p/small-but-big-nanase-san.html",
+    "genre": [
+      "Romance",
+      "Comedy",
+      "School Life",
+      "Ecchi"
+    ],
+    "type": "Light Novel",
+    "status": "Ongoing"
+  },
+  {
+    "id": "feeding-cutest-gal",
+    "title": "The Story of Feeding the Cutest Gal in Class",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsfSGOmEgyA0BCaYx20TrOW-ztcHyyiNvNG_egb0RNE1Op2S0woES4n3wHL1S-_2O0H62C8Yzpdzyt5PFFju3jc2ia1au-dBsERun_SV_XaOdywHQGXMywSvTwkCHHkhVyW0MlnQos3san6jdheLQm2hissZ7taSh0dvcJ6j_6z1BdRX6SeFYE3q4XoijJ/s1600/cover.png",
+    "link": "https://yukikitsuneko.blogspot.com/p/feeding-cutest-gal.html",
+    "genre": [
+      "Romance",
+      "Comedy",
+      "School Life",
+      "Slice of Life"
+    ],
+    "type": "Light Novel",
+    "status": "Ongoing"
+  },
+  {
+    "id": "band-wo-kubi",
+    "title": "The Youth Rewrite of Me, Who Was Fired from My Band, and My Favorite High School Girl",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIRbBFB_QfBGcct3aR0xf3576oy6No3Ws1clbNpqWvqnU_rKM6BYUt0Id0jhLn17Ea9Y8CXDsEu5IWdSeIS_6_SjgcnAys7hjmKYp7Tz04Vz0S_ZVPr994-KX_FJlPf1Ayfgp9viRTpxzwMeUUJSILLrZhmNuVqEzP1lLPk3BYIJnBBlovLiDJPZ1jjy8j/s1600/cover.png",
+    "link": "https://yukikitsuneko.blogspot.com/p/band-wo-kubi.html",
+    "genre": [
+      "Comedy",
+      "Romance",
+      "School Life",
+      "Music",
+      "Time Leap"
+    ],
+    "type": "Light Novel",
+    "status": "One Shot",
+    "recommended": true
+  },
+  {
+    "id": "arrogant-queen",
+    "title": "Living with the Arrogant Queen from High School Is Surprisingly Not Uncomfortable",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFpO9_jBLwcRWXGOoyEk97NHn7Xu1Hqs_ETFnqe0LUPRBkwP2fS2jqqrdJ5m7q4XSkNBvF6P5zIUn6fopZWIaUDDynKcPghr4nRS-4noPURHnANcBk_dv1szyqyiCe_njFu3nKmki0RywpYCZnYOdZnLZgd2iF32jtHquqTHaBq1Lwoihl1VjYDSHgIGuH/s1600/cover.png",
+    "link": "https://yukikitsuneko.blogspot.com/p/arrogant-queen.html",
+    "genre": [
+      "Comedy",
+      "Romance",
+      "School Life",
+      "Ecchi",
+      "Psychological"
+    ],
+    "type": "Light Novel",
+    "status": "Ongoing",
+    "recommended": true
+  },
+  {
     "id": "quderella-next-door",
     "title": "I Spoiled the Quderella Next Door, and I'm Going to Give Her a Key to my House",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgO3nOumfxDuj3zJRY8SwCcMMRM2U2WKS8519LQvkIlJOsZVRyVY7DLLgpyovH-azKceo_Ye_k3hS5svPySbRj2XtzyQKI4Zl_wpJaOsmnc-k-aRRCu-jjqmWvQJlvFGCU3exUGpQBK_WPxtGX2HQe63gPooqHr1-fdgAKt3FYeWWVyKzumwVjexW_kROTz/s1600/2nd%20Life%20Cover.png",
-    "link": "https://example.com/quderella",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCeUBnQdh6Ta9TR2J3sQSI0alBm_4fBEUhUtCv3tCX12e_v45y3skI9hQ8NwrNdOt-gurTs-hNLYUU3PM4ETpYb4vRvt4DV1bD19ZR29qcp3u3pNO7banIq42kM0p9nru5-ZhGJGad55ZAKOAPbPKB6u7sJMCdidn541LXjFX5KFsmRwpkQYf7IGKCKKI2/s1600/cover.png",
+    "link": "https://yukikitsuneko.blogspot.com/p/quderella-next-door.html",
     "genre": [
       "Comedy",
       "Romance",
@@ -11,67 +429,418 @@
       "Cohabitation"
     ],
     "type": "Light Novel",
+    "status": "Completed"
+  },
+  {
+    "id": "you-guys-should-get-married-soon",
+    "title": "Just Get Married Already! There Are Three Girls People Say THat To, You Know?",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNHKItZUOj63g9x-ffAJkNonFgbFGAGPYrr4bq3jwg3xWOWrmV2t276lGsJwN4d2MBxCwFV8qkBbHx26jhlcSKFPbUKe3HCwqzItN10_-2_eDRC9ORJBiZxvNnhe0GDqDkZEGgf2XJv3ULY5hfd2j8DSkBa25Jg84EFNXQh26XZjWhNh_swxpbVO-j_F05/s1600/Cover.png",
+    "link": "https://yukikitsuneko.blogspot.com/p/you-guys-should-get-married-soon.html",
+    "genre": [
+      "Comedy",
+      "Romance",
+      "School Life",
+      "Ecchi"
+    ],
+    "type": "Light Novel",
+    "status": "Ongoing"
+  },
+  {
+    "id": "my-childhood-friend-is-sweet-to-me",
+    "title": "When I Was in Despair After Having My Lover Stolen (NTR’d), My Pure and Lovely Childhood Friend Started Paying an Unusual Amount of Attention to Me",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSPCVFJFZiJXeBfd2CvxdgSauHGLYrxoJo3WSavTVA7jpF6rzNbMF1Y7JquYadG8rj7xChLhAtEtAVCd-ftK4Hy0xrFkrV9ezD-_GSBAMWbQos3mvIMeZ6Lb-uNI_0ITCd3wVJDldVnJD0D57J2zHWmYrRCZCZ4256I5sViVF2FS_cW7wO9_cMRCM-dLme/s1600/WN%20Cover.png",
+    "link": "https://yukikitsuneko.blogspot.com/p/my-childhood-friend-is-sweet-to-me.html",
+    "genre": [
+      "Romance",
+      "Comedy",
+      "School Life",
+      "Netorare",
+      "Serves You Right"
+    ],
+    "type": "Light Novel",
+    "status": "Completed"
+  },
+  {
+    "id": "today-honor-student-died",
+    "title": "Today, the Honor Student Died",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3L9bRxXh7OHEYysCjpXWnLAfcAdkIAa1OipvfDv-7vuepI9C_Iy06qOEKgbq0m1hyjfdGQikPqYYaar_PV57p8BsAm4W4TatYY6GBGGimvyYjS4NgAWr5X15IlMowiriNMPpxuCTet6GjL75BJoSYYHKDFuoXJlicfxZhWQNjwQEXzqIOI30IPRkxK8bS/s1600/cover.png",
+    "link": "https://yukikitsuneko.blogspot.com/p/today-honor-student-died.html",
+    "genre": [
+      "Romance",
+      "Comedy",
+      "School Life"
+    ],
+    "type": "Light Novel",
+    "status": "Oneshot"
+  },
+  {
+    "id": "jimikawa",
+    "title": "My Plain-looking Fiance is Secretly Sweet with Me",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHCNcQKrvKi3JkImzagBix9Xr6SPQObQ0Pspr3PEDgtssD-NYd0AlF2iP_PbY53ZeY-UoID8yxHgFwSSHDHvJpijRrmRy_u8QZDaiYTcwnHmCCat6eNzo_vB63i6mLFdNXUDm1JRrEto-xjADsn2TiJPbA1V-6fusvdOxb3tOT3EOHevju4L1p2PTzgZ3l/s1600/cover.png",
+    "link": "https://yukikitsuneko.blogspot.com/p/jimikawa.html",
+    "genre": [
+      "Comedy",
+      "Romance",
+      "School Life"
+    ],
+    "type": "Light Novel",
     "status": "Completed",
     "recommended": true
   },
   {
-    "id": "villainess-office-lady",
-    "title": "I Was a Villainess in My Past Life, but After Reincarnating as a Modern Office Lady...",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgO3nOumfxDuj3zJRY8SwCcMMRM2U2WKS8519LQvkIlJOsZVRyVY7DLLgpyovH-azKceo_Ye_k3hS5svPySbRj2XtzyQKI4Zl_wpJaOsmnc-k-aRRCu-jjqmWvQJlvFGCU3exUGpQBK_WPxtGX2HQe63gPooqHr1-fdgAKt3FYeWWVyKzumwVjexW_kROTz/s1600/2nd%20Life%20Cover.png",
-    "link": "https://example.com/villainess",
+    "id": "troubled-girl-in-class",
+    "title": "I Helped the Troubled Girl in Class, and She Became My Super Sweet Girlfriend",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgj60Rd-JB2YsE9Msxbs8AZ-22onVfs7tT_ZBC9tuYEimD7-M6WxMOKkkHKlEW4MLvKrzRBehCzORfUavYaLQwTwI2RmdxfYl8SDA4LTm3WLjfHQOZhU3RCkLwpC4wrAVe7JD-o_-yD1rawIWtJ8m5TC6YpTgO99x_zrYYuoevFj4OrFRMg4UMfrltaRNg_/s1600/WN%20Cover.png",
+    "link": "https://yukikitsuneko.blogspot.com/p/troubled-girl-in-class.html",
     "genre": [
       "Comedy",
       "Romance",
-      "Office Life",
-      "Ecchi"
-    ],
-    "type": "Web Novel",
-    "status": "Ongoing",
-    "recommended": false
-  },
-  {
-    "id": "never-learned-goodbye",
-    "title": "Never Learned to Say Goodbye",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgO3nOumfxDuj3zJRY8SwCcMMRM2U2WKS8519LQvkIlJOsZVRyVY7DLLgpyovH-azKceo_Ye_k3hS5svPySbRj2XtzyQKI4Zl_wpJaOsmnc-k-aRRCu-jjqmWvQJlvFGCU3exUGpQBK_WPxtGX2HQe63gPooqHr1-fdgAKt3FYeWWVyKzumwVjexW_kROTz/s1600/2nd%20Life%20Cover.png",
-    "link": "https://example.com/never-learned",
-    "genre": [
-      "Death Game",
-      "Survival",
-      "Psychological",
-      "Dark Fantasy"
+      "School Life",
+      "Ecchi",
+      "Doting Love Interest",
+      "Pure Love",
+      "R18"
     ],
     "type": "Light Novel",
-    "status": "Ongoing",
-    "recommended": true
+    "status": "Ongoing"
   },
   {
-    "id": "science-notes",
-    "title": "—The Science Notes by δ and γ—",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgO3nOumfxDuj3zJRY8SwCcMMRM2U2WKS8519LQvkIlJOsZVRyVY7DLLgpyovH-azKceo_Ye_k3hS5svPySbRj2XtzyQKI4Zl_wpJaOsmnc-k-aRRCu-jjqmWvQJlvFGCU3exUGpQBK_WPxtGX2HQe63gPooqHr1-fdgAKt3FYeWWVyKzumwVjexW_kROTz/s1600/2nd%20Life%20Cover.png",
-    "link": "https://example.com/science-notes",
+    "id": "kuro-neko",
+    "title": "After I Picked Up a Black Cat, My House Became a Hangout Spot For Two Beautiful Girls",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMz826u44uR5De_2UOsiU4y1EGTrEcw4z-ZZiBwbzCQvO9oUxeN71SLmSmIWrGEBS1JmfONNAR5XpEnqxHsVryI-AGp-xwZQCdO45f6aARwXFUy3GBDYriWOboUPAD3PBlkJPTvLsda86XRTjuTPjL-0RbjI68iEi5LkPJEOru5vkpP_Ou8QzQWNx7-NrP/s1600/cover.png",
+    "link": "https://yukikitsuneko.blogspot.com/p/kuro-neko.html",
+    "genre": [
+      "Comedy",
+      "Romance",
+      "School Life",
+      "Ecchi"
+    ],
+    "type": "Light Novel",
+    "status": "Ongoing"
+  },
+  {
+    "id": "what-you-left-me",
+    "title": "What You Left Me with One Year to Live",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFNj0Kz-KMWNKzPoAs1LP5k-Bp2HNzxx3i4BavPe-2uSihR2Fljm_I1RRWZSn2dgzodONvCoQPSMO74dp76C1R3aqUHMoY1xWm0nutEvhvbWYaKzY2L9P4mWgjO5kvGCRLKskhwexWWGLsLkIfrOquwQDBYC74pSJtmEoD_ETOY4m7vttWE8CD50sHRE0Y/s1600/cover.png",
+    "link": "https://yukikitsuneko.blogspot.com/p/what-you-left-me.html",
     "genre": [
       "Drama",
+      "Romance",
+      "School Life",
+      "Tragedy"
+    ],
+    "type": "Light Novel",
+    "status": "One Shot"
+  },
+  {
+    "id": "gimai-nara",
+    "title": "It’s Okay to Fall For a Stepsister, Right?",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGorfZUCAPxxx63qJzlNiuOeKT3fUJ3RxMUuwthS9vagUlqgbj07alHFcmhAAG16l2wwVWQUTxh0CBMIZ8xu8WpIgPnwyviq7APOpxbZgXYm7TSShek56hA8SGKsEyyuxEeLxDMTnE2DUEqAKLFwIw4oSlf6Sy60oD9_YNEsS_IByVTh3hgDeea2oOXeOC/s1600/cover.png",
+    "link": "https://yukikitsuneko.blogspot.com/p/gimai-nara.html",
+    "genre": [
+      "Comedy",
+      "Romance",
+      "School Life"
+    ],
+    "type": "Light Novel",
+    "status": "Ongoing"
+  },
+  {
+    "id": "sekaosa",
+    "title": "SekaOsa: Forever and Always, My Childhood Friend is the Cutest Girl in the World",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvmWiTXLnUmlrYzcQNsjqrfgkjSFpIL11zCG5J-G_ZJOXG1U227mRvkDT_Dp8f1YNLyKnYWcgwRnZoh9GzrvJnuY2N1wVYDldBJUjoC7FBZlCbKjiqSyUKky8hNtcY4kiYhoIi478MqC6Xv46gjMjxsVRATpgWhxNC5KbZJ47OSO28a8T_sDjiN3V-LmPo/s1600/cover.png",
+    "link": "https://yukikitsuneko.blogspot.com/p/sekaosa.html",
+    "genre": [
+      "Comedy",
+      "Romance",
+      "School Life",
+      "Slice of Life",
+      "Childhood Friend"
+    ],
+    "type": "Light Novel",
+    "status": "One Shot"
+  },
+  {
+    "id": "i-fell-in-love-with-delusional-loner",
+    "title": "I Fell in Love with a Delusional Loner Girl, and Now Things Are Giga Heavy",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhB4Hk-_Q7M0_xZwbjhn-o1beForKewmz0LfQ3LeGi2ahwc8Q9DPbLiAhAENxfdfJJEuj7LLLRnkNw4mkQlXxrC-Xj14eL4myDJrZKT1z5p_azf77M-69aN9Dowf15FXWZEU5EJZIKbP3jfnDaur1Q2hnNiq_eczJ4YRFAxvt5Cy3cYWM7Gf4OoblTKzkCF/s1600/cover.png",
+    "link": "https://yukikitsuneko.blogspot.com/p/i-fell-in-love-with-delusional-loner.html",
+    "genre": [
+      "Comedy",
+      "Romance",
+      "School Life",
+      "Fantasy"
+    ],
+    "type": "Light Novel",
+    "status": "Ongoing"
+  },
+  {
+    "id": "yandere-maid-princess",
+    "title": "The Possessive Maid I Recently Hired is Actually a Princess",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjas93eeVP6cR9rXCa3YL1yYD5ZEISZ355nixcSJPG2Z-k7H2ybNltirTCoQu_tQFKzxyjcXDswfbH8SViLGIeNzMlWy9HrzFaDcCBCrvrXGNgd_q3h-YIhf-_PT3DeWIxMi8611-4LFf9e2xWzFiwSNqlMOPNViIHAjsfkFYK1A8pK0TN61ThxX7awsQRT/s1600/cover.png",
+    "link": "https://yukikitsuneko.blogspot.com/p/yandere-maid-princess.html",
+    "genre": [
+      "Comedy",
+      "Romance",
+      "School Life",
+      "Fantasy",
+      "Yandere"
+    ],
+    "type": "Light Novel",
+    "status": "Ongoing"
+  },
+  {
+    "id": "noblesse-replica",
+    "title": "Noblesse Replica: The Former Aristocrat-Killer Child Soldier Is Reluctantly Enrolled in a Military Academy for the Gifted",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjas93eeVP6cR9rXCa3YL1yYD5ZEISZ355nixcSJPG2Z-k7H2ybNltirTCoQu_tQFKzxyjcXDswfbH8SViLGIeNzMlWy9HrzFaDcCBCrvrXGNgd_q3h-YIhf-_PT3DeWIxMi8611-4LFf9e2xWzFiwSNqlMOPNViIHAjsfkFYK1A8pK0TN61ThxX7awsQRT/s1600/cover.png",
+    "link": "https://yukikitsuneko.blogspot.com/p/noblesse-replica.html",
+    "genre": [
+      "Action",
+      "Mecha",
+      "Fantasy",
+      "School Life",
+      "Romance"
+    ],
+    "type": "Light Novel",
+    "status": "Ongoing"
+  },
+  {
+    "id": "shimotsuki-san-loves-mob",
+    "title": "Shimotsuki-san Loves The Mob",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_TfaH7KEV4jnj19hebHVfw5M7P7K9HXKK8TQZReBiWFidxS_XZxCKYynuwVT0j789CRKTAlCF1DSZHpbek7yzAu6J9LOMEFQjz-EKCSg1NaWy36DFDv4_83P2k6YReI7yBpNbMuEzYuHJgqkF3LeE_YjsGIYWQwgtGfzt-HUfxX4UfZ8Ffo4jy4K_3PG0/s1600/cover.png",
+    "link": "https://yukikitsuneko.blogspot.com/p/shimotsuki-san-loves-mob.html",
+    "genre": [
+      "Comedy",
+      "Romance",
+      "School Life",
+      "Yandere"
+    ],
+    "type": "Light Novel",
+    "status": "Completed"
+  },
+  {
+    "id": "hiyori-chan-wish",
+    "title": "Hiyori-chan’s Wish Is Absolute: When She Wishes Upon a Planet",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEha8Rl5ZPCXdwHFpliaVTIrF1FTf6npwoxM2xxgXPciVqeMmT-EmVx_76r49rTPX46A9uTCx1Q_g1gOhQgRHULRuDgSAOvR8NBC6QmqM-6njSNQinoGfM2i8F6GaPkfyrW2TAsRPNhFB992kIoIWFXcke2fP-Ki1Ca8ItYSsyMEQcvXyPIRCRMFAZrhZq8k/s1600/cover.png",
+    "link": "https://yukikitsuneko.blogspot.com/p/shimotsuki-san-loves-mob.html",
+    "genre": [
       "Mystery",
+      "Romance",
+      "School Life",
+      "Psychological",
+      "Action",
+      "Supernatural"
+    ],
+    "type": "Light Novel",
+    "status": "Completed"
+  },
+  {
+    "id": "my-childhood-friend-is-unattainable",
+    "title": "My Childhood Friend is an Unattainable Flower, but Maybe Even I Reach Him in This Romantic Comedy",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg64077qISBy6DuSv1mGSze_lUrvHACiN-IFzKCpnt9DvgqfMAZy4wCNeQPSS0mcxMtbg7ZvEKJJSz2f526Ed4Ql34PmHt3VHLmI5Kl5G4dB_iVf9vp2rebFBkY6gUsCAmImOKMPiB1Rtme8OCi4YZL2QHEzklhVXW_ssJEuej2DL3sjzYCDb30laIEmaWC/s1600/WN%20Cover%20%283%29.png",
+    "link": "https://yukikitsuneko.blogspot.com/p/my-childhood-friend-is-unattainable.html",
+    "genre": [
+      "Comedy",
+      "Romance",
       "School Life",
       "Slice of Life"
     ],
-    "type": "Light Novel",
-    "status": "Hiatus",
-    "recommended": false
+    "type": "Web Novel",
+    "status": "Completed"
   },
   {
-    "id": "bizarre-love-triangle",
-    "title": "Bizarre Love Triangle",
-    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgO3nOumfxDuj3zJRY8SwCcMMRM2U2WKS8519LQvkIlJOsZVRyVY7DLLgpyovH-azKceo_Ye_k3hS5svPySbRj2XtzyQKI4Zl_wpJaOsmnc-k-aRRCu-jjqmWvQJlvFGCU3exUGpQBK_WPxtGX2HQe63gPooqHr1-fdgAKt3FYeWWVyKzumwVjexW_kROTz/s1600/2nd%20Life%20Cover.png",
-    "link": "https://example.com/love-triangle",
+    "id": "saving-pair-of-beautiful-yandere-twins",
+    "title": "I Risked My Life to Save a Pair of Beautiful Twin Sisters, and Now These Secret Yanderes Are Totally Obsessed With Me",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8LNc4QochocfnuG7A1GZFTaDYxSClZ7W8F3KjLLQA7bEurGHCjkt7I5KpyIieb27UaaSATiZNxLUXiT-KgOqSPGkS3nS02Rsp1yk3PLnfazwiCLm9gdiXmp7w6BsS1yWinqwPUTFGUi082MwrmuD-qQOqw4Hy3nFzBlc6FjwQ9O4GwLJ0vSP2b2Jgi40S/s1600/cover.png",
+    "link": "https://yukikitsuneko.blogspot.com/p/saving-pair-of-beautiful-yandere-twins.html",
     "genre": [
       "Comedy",
-      "Drama",
       "Romance",
-      "Seinen"
+      "School Life",
+      "Slice of Life",
+      "Yandere"
     ],
     "type": "Light Novel",
-    "status": "Completed",
+    "status": "Ongoing"
+  },
+  {
+    "id": "the-class-rep-claimed-me-while-i-was-in",
+    "title": "I Woke Up from a Coma, and Now the Black-Haired Class Rep Acts Like My Girlfriend While the Class Falls Apart from Romance—What Is Even Happening?",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhZdF4YztdrFyENQHN8hjj3QbQJWz-R4wlSqqgtB3RK9dBKAmXYwDjufB2k9bDhzegIEkqrHpcur1GYyFIawc-joJbk9_eRQUcZpvmcSffRRYpVt4aUZmpXiYYej-nobQMem_P2eF_-0tuSPrhbPrYJntxW_cS9KYY096JwZP_I1kBVlSYQEaHlrhXFmxa/s1600/WN%20Cover%20%284%29.png",
+    "link": "https://yukikitsuneko.blogspot.com/p/the-class-rep-claimed-me-while-i-was-in.html",
+    "genre": [
+      "Comedy",
+      "Romance",
+      "School Life",
+      "Pure Love",
+      "Yandere",
+      "Diabetic"
+    ],
+    "type": "Web Novel",
+    "status": "Completed"
+  },
+  {
+    "id": "hero-at-17-going-home-with-my-family",
+    "title": "I Was Summoned as a Hero at 17—Now I'm Going Home With My Wife and Daughter!",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjW6vuaN7erkBQ9RE4ybOG7fRvJWxjJcJ8rDBgfAWoH3gYLEtEsyQ9-Vbh-bHkZpd2b1GeymSg_w3GkzwvBwM6UAslg6zNt1gpeoHp8LaCE7zgyTrNIKTVFjgOdQ8u8ZU2qVKO0_b2FQDZfR46xv4hIj3nSmMWMW2IPvozXcrT9weExGbkhtYcAadFFdzua/s1600/WN%20Cover%20%285%29.png",
+    "link": "https://yukikitsuneko.blogspot.com/p/hero-at-17-going-home-with-my-family.html",
+    "genre": [
+      "Comedy",
+      "Romance",
+      "Flirty",
+      "Isekai",
+      "Doting Love",
+      "Diabetic"
+    ],
+    "type": "Web Novel",
+    "status": "Ongoing",
     "recommended": true
+  },
+  {
+    "id": "10-years-later-my-classmates-got",
+    "title": "Ten Years After Falling Into Another World, My High School Classmates Were Summoned as Heroes",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIjbvb8nVf-pyRfg9GG7PKGrMrV-XoEjEeM-cz4AvezseovSE1VAWILsL_k423HNEhjnciKou6xnzq-4w31StId92g8YXzewbyYDRcfd1NGZnRO_P6PgTDVozeXAJ-4LzQiR5mDwMBWM9wODXuJ6X8EvCvgoKziFMG0zt3RC3LGdEIV817HF9GW-DBmh8u/s1600/WN%20Cover%20%286%29.png",
+    "link": "https://yukikitsuneko.blogspot.com/p/10-years-later-my-classmates-got.html",
+    "genre": [
+      "Comedy",
+      "Romance",
+      "Ecchi",
+      "Isekai",
+      "Harem"
+    ],
+    "type": "Web Novel",
+    "status": "Completed"
+  },
+  {
+    "id": "when-classes-went-remote",
+    "title": "When Classes Went Remote, I Ended Up Living With the Class's #1 Beauty",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvDqDy6oQdTsoU-rdGvyIraeHxkBLg6WD9dhJpBgB6Ob_Fbw5ILoYSRDLns0s2iOXwhQj0XMNLiA4CLx4kuQghDKiJG4RRdmj4dWxuVHi2_u5KHkSlQ98jKMTKa3w_6r1bXY5qFsq3MgwcpC-wxLVbuV1bZCvdoRLqYeOcgfUIThJ4CHV3NP94BOBMCJ-B/s1600/cover.png",
+    "link": "https://yukikitsuneko.blogspot.com/p/when-classes-went-remote.html",
+    "genre": [
+      "Comedy",
+      "Romance",
+      "Ecchi",
+      "School Life",
+      "Cohabitation"
+    ],
+    "type": "Light Novel",
+    "status": "Axed"
+  },
+  {
+    "id": "shes-usually-serious-class",
+    "title": "She’s Usually a Serious Class Representative, but Can She Be Your Girlfriend?",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRy12RNIIISrdVt7JY9NXwy_VGlOYLnUE5fdqjIquPR_JpVy_uode6cKLdAbncpkFoH89lr3coo4JvKjmGiVW2TO_ZBTNdPAub7lW-kwmCaFO-LGAU4sv9di_UgbEtUeCSR9F9d-GEmL1PeXW_dWwwiw9qDlfx-6KqKYNiEyC8r-JHyjBG_3i33hX4JTEL/s1600/cover.png",
+    "link": "https://yukikitsuneko.blogspot.com/p/shes-usually-serious-class.html",
+    "genre": [
+      "Comedy",
+      "Romance",
+      "Slice of Life",
+      "School Life"
+    ],
+    "type": "Light Novel",
+    "status": "Completed"
+  },
+  {
+    "id": "the-s-rank-beauty-i-loved-in-high-school",
+    "title": "The S-Rank Beauty I Loved in High School Moved in Next Door with Her Adopted Daughter",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsRZnty6lS93xNX98pIDbiftGKbEGFrYcuQjwgcsuC24evkdEPZbzM_6L9ECwWSwc6kS3SPWlO2GTK4ihV5dcq13urCEvGl2FmUU6IPMqrNvZWsdAPTYbuyeGRIUjW7ZvRTLI_Kypy6h0aEiDIAcGeH82T2vo7WE5-oZ1xzBlRWZXvCdTKEIlr8Wi9oTyQ/s1600/cover.png",
+    "link": "https://yukikitsuneko.blogspot.com/p/the-s-rank-beauty-i-loved-in-high-school.html",
+    "genre": [
+      "Comedy",
+      "Romance",
+      "Slice of Life",
+      "Drama"
+    ],
+    "type": "Light Novel",
+    "status": "One Shot"
+  },
+  {
+    "id": "the-love-x3-from-that-day-wont-end",
+    "title": "The Love (x3) From That Day Won't End",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNeePetvIggZxQuvalLpuTXcw3ukfS5RrMqTlo_bHovH8v_j5fulkhby71Dcp53cx5_jfBj-EDvbl8769vTF3QGPDBR6XNCxYkW-G4pRWV0tQdoOjPfTDY-bXFQvU63VfcoImyybYLdv_8vUcu83mPQ1QKabH2EF2yvnj3BPkMyJYja4p8wvXvt-G-BW8D/s1600/cover.png",
+    "link": "https://yukikitsuneko.blogspot.com/p/the-love-x3-from-that-day-wont-end.html",
+    "genre": [
+      "Comedy",
+      "Romance",
+      "Slice of Life",
+      "School Life",
+      "Harem"
+    ],
+    "type": "Light Novel",
+    "status": "Ongoing"
+  },
+  {
+    "id": "after-hostage-period-ended",
+    "title": "After the Hostage Period Ended and I Returned from the Empire to the Kingdom, I Was Falsely Accused and Exiled, So I’ll Form a Mercenary Group and Live Freely",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi78zwit8ghgVUs-Xrt-ebtPipNiN9nVk4g-k9lFW0-R1DKOoVU-gb4zjQHYQATxNgSC-VAvx2AjjqdwhQb-AImORaN7k8SjYjw9VbRrqq_FYgPbBcijNgZMhYZiJO4bHTeCmbi8cU_vJkVKNzEM1KxfgYnBVx2USvglhxEgtqadXCRlMjlWQ4Qra91qoe5/s1600/WN%20Cover%20%284%29.png",
+    "link": "https://yukikitsuneko.blogspot.com/p/after-hostage-period-ended.html",
+    "genre": [
+      "Comedy",
+      "Romance",
+      "Fantasy",
+      "Isekai",
+      "Action",
+      "Territory Building"
+    ],
+    "type": "Web Novel",
+    "status": "Completed"
+  },
+  {
+    "id": "rejected-by-my-childhood-friend",
+    "title": "Rejected by My Childhood Friend, Now the Blonde Beauty in My Class Is Going Full Throttle to Make Me",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGOwqqj3TJup2tyi6vOPxsmo9St9LtJqk9DhP8BJwgv2qOE64ujaR7bBuwv5Un5JS3yGwp_gu4cqDnu54KBLWWER_cAymrm8KZfK9uGmDfhLXJPgaqolTwdBK3HOH8uKzIJXt4ce48AbTGftgtJChSfJ_9UXe6U5UrgU5ZgPyu_7Me6mQD9Y8sc1numM81/s1600/rejected%20by%20chf%20Cover.png",
+    "link": "https://yukikitsuneko.blogspot.com/p/rejected-by-my-childhood-friend.html",
+    "genre": [
+      "Comedy",
+      "Romance",
+      "School Life",
+      "Serves You Right"
+    ],
+    "type": "Web Novel",
+    "status": "Completed"
+  },
+  {
+    "id": "the-gal-next-door",
+    "title": "The Gal Next Door Tries Too Hard To Win My Heart",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeanRhvVMHqLUnIRU6bmPBdc_G6cGnoI7Vcz6OyBqMY8nSZjoWUddjTtSh-O9D5_R0I69BOOt4dJ1bT_7B66GcgRuhTKBLZAck9vT8QklOvQmxjI3eWl9sF5t2cymw-MYTq7Jk5c7s8FKQ5ivcO8ejeTDDU-_JQD4MuQ_3pok7sxHt8fKM9pNVlNtrdMje/s1600/cover.png",
+    "link": "https://yukikitsuneko.blogspot.com/p/the-gal-next-door.html",
+    "genre": [
+      "Comedy",
+      "Romance",
+      "School Life",
+      "Pure Diabetes",
+      "Gal",
+      "Cohabitation"
+    ],
+    "type": "Light/Web Novel",
+    "status": "Ongoing"
+  },
+  {
+    "id": "my-wife-from-neighboring-country-is-so",
+    "title": "My Wife from the Neighboring Country Is So Cute, I Don't Know What to Do!",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxupWz4sMFk0nQBpHA8YQgyPbdP-zuKqIxggF7bx8pkwlEQwryiILw04Ug8OBMX4E10eIvxn5CD236_8RXxDNZlXbNp4scwWHIE8Zs2m_bV6DbfWzW2iEjO7IjMnv2uNFzozKzDWlxh3ES93pjEM1z0Jox83QfM9kWJPObL6EXQBky81UgGR6kL0f3Uo86/s1600/cover.png",
+    "link": "https://yukikitsuneko.blogspot.com/p/my-wife-from-neighboring-country-is-so.html",
+    "genre": [
+      "Comedy",
+      "Romance",
+      "Fantasy",
+      "Drama",
+      "Ecchi"
+    ],
+    "type": "Light Novel",
+    "status": "Ongoing"
+  },
+  {
+    "id": "love-talk",
+    "title": "Love Talk: Just Asking For a Friend, But... My Easily Flustered Childhood Friend Won't Stop Making It Obvious She Loves Me!",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzovwxH_56E7ecyC3gdLJnVz8wl6gLtfrO78BnLPZ6W81LUfGX1n0Q2bMeQQMwfnSFEREfh6RnlWxwtoCi6_CjTbD9vFG2UCUOBPkQwV1ad0QMKb3fFoKYCgg3PvIW-4QKrnAUT_ueuAADP9vme0C-X8pkXE_UElw4MivaUlSbOzJyM2f7T9Q7k7RDcQk-/s1600/cover.jpg",
+    "link": "https://yukikitsuneko.blogspot.com/p/love-talk.html",
+    "genre": [
+      "Comedy",
+      "Romance",
+      "School Life"
+    ],
+    "type": "Light Novel",
+    "status": "Completed"
   }
 ]
