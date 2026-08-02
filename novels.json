@@ -285,7 +285,17 @@
     ],
     "type": "Light Novel",
     "status": "Completed"
+  },
+  {
+    "id": "example-id",
+    "title": "Example Title",
+    "imageUrl": "https://example.com/cover.png",
+    "link": "https://yourblog.blogspot.com/p/example.html",
+    "genre": [
+      "Romance",
+      "Comedy"
+    ],
+    "type": "Light Novel",
+    "status": "Ongoing"
   }
- 
-  
 ]
