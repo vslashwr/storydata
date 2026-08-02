@@ -311,5 +311,17 @@
     "type": "Web Novel",
     "status": "Ongoing",
     "staffPick": true
+  },
+  {
+    "id": "saekano",
+    "title": "saekano",
+    "imageUrl": "string",
+    "link": "https://yuuchantl.blogspot.com/p/s7.html",
+    "genre": [
+      "string"
+    ],
+    "type": "Web Novel",
+    "status": "Ongoing",
+    "staffPick": false
   }
 ]
