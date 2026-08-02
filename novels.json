@@ -12,7 +12,7 @@
     ],
     "type": "Light Novel",
     "status": "Completed",
-    "recommended": true
+    "staffPick": true
   },
   {
     "id": "life-reversal",
@@ -170,7 +170,7 @@
     ],
     "type": "Web Novel",
     "status": "Ongoing",
-    "recommended": true
+    "staffPick": true
   },
   {
     "id": "i-wont-choose-you",
@@ -190,7 +190,7 @@
     ],
     "type": "Light Novel",
     "status": "On-going",
-    "recommended": true
+    "staffPick": true
   },
   {
     "id": "because-you-were-by-my-side",
@@ -211,7 +211,7 @@
     ],
     "type": "Web Novel",
     "status": "Completed",
-    "recommended": true
+    "staffPick": true
   },
   {
     "id": "kano-dere",
@@ -255,7 +255,7 @@
     ],
     "type": "Light Novel",
     "status": "One Shot",
-    "recommended": true
+    "staffPick": true
   },
   {
     "id": "yandere-ex-girlfriend",
