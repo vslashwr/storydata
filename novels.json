@@ -298,6 +298,18 @@
     ],
     "type": "Light Novel",
     "status": "Ongoing",
-    "staffPick" : true
+    "staffPick": true
+  },
+  {
+    "id": "string-hello-my-name-is-vansh",
+    "title": "string hello my name is vansh",
+    "imageUrl": "string",
+    "link": "https://yuuchantl.blogspot.com/p/shmniv29.html",
+    "genre": [
+      "string"
+    ],
+    "type": "Web Novel",
+    "status": "Ongoing",
+    "staffPick": false
   }
 ]
