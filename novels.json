@@ -323,5 +323,22 @@
     "type": "Web Novel",
     "status": "Ongoing",
     "staffPick": false
+  },
+  {
+    "id": "How-to-raise-a-boring-gf",
+    "title": "How to raise a boring gf",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnfPPIiFCZ1WuQrBr16IlyXnV-hwkvbT2YGYmOhHhcYt1Rl45P-di9rEgIGB-ReKw0L-Hnuw2gDa_X8dSWs1p7l0nP4L0UbtLBOnMMaFn-jI_OCcC7d9KN5QFmMxAL6pqzkn5L28EgErqqzAIl_3z3YS1Ox4MZqg0Vze8-9tB0bMCN9h4/s1600/COVER.jpg",
+    "link": "https://yuuchantl.blogspot.com/p/hrbg24.html",
+    "genre": [
+      "Comedy",
+      "Drama",
+      "Harem",
+      "Romance",
+      "School Life",
+      "Shounen"
+    ],
+    "type": "Light Novel",
+    "status": "Ongoing",
+    "staffPick": false
   }
 ]
