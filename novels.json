@@ -100,8 +100,7 @@
       "Slice of Life"
     ],
     "type": "Light Novel",
-    "status": "Completed",
-    "mainFeature": true
+    "status": "Completed"
   },
   {
     "id": "villainess-fiancee",
@@ -339,6 +338,7 @@
     ],
     "type": "Light Novel",
     "status": "Ongoing",
-    "staffPick": false
+    "staffPick": true,
+    "mainFeature": true
   }
 ]
